@@ -45,7 +45,7 @@ export OPSGENIE_API_KEY='your_opsgenie_api_key_here'
 
 Ensure this environment variable is set before running the exporter.
 
-## Metrics
+## Metrics
 
 Go to [metrics documentation](docs/metrics.md).
 
